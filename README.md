@@ -1,4 +1,4 @@
-# AppSense
+# AppSense/Ivanti
 Ivanti UWM
 
 **MoveMachinesforMC** - PowerShell GUI - move multiple machines from one deployment group to another  
